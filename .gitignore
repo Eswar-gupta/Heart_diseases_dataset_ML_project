@@ -1,1 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# PyInstaller
+*.spec
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
+# Jupyter Notebook metadata and output
+*.ipynb
+
+# Data and logs
+*.log
+*.csv
+*.tsv
+*.sqlite
+*.db
+
+# Ignore the specific notebook file (optional)
 Heart_disease_prediction_senior.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
