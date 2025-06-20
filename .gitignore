@@ -59,8 +59,6 @@ coverage.xml
 # pytype
 .pytype/
 
-# Jupyter Notebook metadata and output
-*.ipynb
 
 # Data and logs
 *.log
